@@ -6,7 +6,7 @@
 
 body {
   height: 100%;
-  background-color: rgb(22, 86, 204);
+  background-color: rgb(173, 181, 196);
 }
 
 h1 {
@@ -20,7 +20,7 @@ h1 {
 
 .heading {
   font-weight: 800;
-  color: lime;
+  color: rgb(0, 72, 255);
 }
 
 .input_div {
@@ -39,19 +39,19 @@ h1 {
   width: 450px;
   font-size: 1.15rem;
   margin: 0.25rem;
-  border-radius: 20px;
+  
 }
 
 .addButton {
   height: 50px;
   width: 50px;
-  border-radius: 25px;
+
   outline: none;
   border: none;
   background-color: white;
   color: #fff;
   margin: 0.25rem;
-  background-color: lime;
+  background-color: rgb(30, 60, 30);
   cursor: pointer;
 }
 
@@ -70,7 +70,7 @@ h1 {
 .item {
   padding: 0.5rem;
   margin-bottom: 1.5rem;
-  border-bottom: 4px solid #fff;
+  border-bottom: 4px solid rgb(221, 222, 182);
 }
 
 .item_input {
@@ -82,16 +82,7 @@ h1 {
   font-size: 1.4rem;
 }
 
-.editButton {
-  font-size: 1.4rem;
-  margin: 0 0.5rem;
-  font-family: "Bebas Neue", cursive;
-  background: none;
-  outline: none;
-  color: lime;
-  border: none;
-  cursor: pointer;
-}
+
 
 .removeButton {
   font-size: 1.4rem;
@@ -99,7 +90,7 @@ h1 {
   font-family: "Bebas Neue", cursive;
   background: none;
   outline: none;
-  color: rgb(243, 57, 57);
+  color: rgb(244, 6, 42);
   border: none;
   cursor: pointer;
 }
